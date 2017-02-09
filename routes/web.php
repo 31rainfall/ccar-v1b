@@ -12,5 +12,15 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home');
 });
+
+
+Route::get('/list', function () {
+    return view('pages.listing');
+});
+
+Route::get('/contact', function () {
+    return view('pages.contact-us');
+});
+
