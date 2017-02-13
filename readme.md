@@ -1,5 +1,5 @@
-<h1> Creditcar24 </h1>
+<h1> Creditcar  </h1>
 
 ## About Project
 
-Creditcar**** project
+Creditcard Project
